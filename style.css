@@ -1,0 +1,14 @@
+.Profile {
+  height: 150px;
+  width: 150px;
+  }
+
+.aligncenter  {
+  text-align: center;
+}
+
+#grad {
+/* height: 200px; */
+background-color: orange; /* For browsers that do not support gradients */
+background-image: linear-gradient(to bottom right, #e8cd84, #5faaf5);
+}
